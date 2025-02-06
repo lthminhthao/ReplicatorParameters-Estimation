@@ -9,6 +9,6 @@ This repo has 7 sub-folders, including 5 sub-folders of codes and 2 sub-folders 
 4. Data visualization: Codes for the exploitation and visualization of data observation
 5. Comparison: Codes for comparisons in multiple aspects between two Orders' estimation procedures.
 
-2 sub-folders of text result files:
-6. Data_files: Files of data observations
+2 sub-folders of text result files: \
+6. Data_files: Files of data observations \
 7. Results_file: Files of results mentioned in the main paper.
