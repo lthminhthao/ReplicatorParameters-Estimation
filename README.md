@@ -1,5 +1,5 @@
 # ReplicatorParameters-Estimation
-This repo contains codes for the paper: Nested inference of pairwise interactions from strain frequency data across settings and context-dependent mutual invasibilities.
+This repo contains codes for the paper: Inference of Pairwise Interactions from Strain Frequency Data Across Settings and Context-Dependent Mutual Invasibilities.
 This repo has 7 sub-folders, including 5 sub-folders of codes and 2 sub-folders of text result files:
 
 5 subfolders of codes:
